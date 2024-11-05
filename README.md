@@ -5,15 +5,15 @@ My current plan is to get good enough to land a job and become a professional!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 October 2024 - To: 03 November 2024
+From: 28 October 2024 - To: 04 November 2024
 
-Total Time: 11 mins
+Total Time: 27 mins
 
-YAML         7 mins          ████████████████░░░░░░░░░   63.99 %
-Markdown     2 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.32 %
-JavaScript   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
-CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+HTML         15 mins         ██████████████░░░░░░░░░░░   55.93 %
+YAML         7 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.01 %
+Markdown     2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
+JavaScript   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
 <!--END_SECTION:waka-->
