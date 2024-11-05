@@ -2,6 +2,10 @@ Hi, I am Jean Alvarez. I am currently learning web development through The Odin 
 
 My current plan is to get good enough to land a job and become a professional! 
 
+<a href="https://discord.com/users/1288846196298743953">
+    <img src="https://lanyard.cnrad.dev/api/1288846196298743953" align="right"></img>
+</a>
+
 <!--START_SECTION:waka-->
 
 ```txt
